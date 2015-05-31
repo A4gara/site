@@ -1,0 +1,23 @@
+/* TEAM */
+
+  Nome do Projeto: Exemplo.
+
+
+  Webdeveloper: Alexandre Gabriel Rezende Azevedo.
+  Facebook: facebook.com/Alex.G.Livre
+  Twitter:  @AlexandreGR_A
+  Linkedin:  http://br.linkedin.com/in/AlexandreGRA
+  Location: Luz - MG , Brasil
+    
+  
+  Conteudo: Web site de Exemplo.
+  Location: Brasil  
+
+                              
+/* SITE */
+
+                              
+  Last update: 2015/05/09 
+
+                              
+  Standards: HTML, CSS, JS.

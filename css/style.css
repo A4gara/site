@@ -1,0 +1,171 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/*
+    Created on : 09/05/2015, 23:30:10
+    Author     : Alexandre Gabriel Rezende Azevedo
+*/
+
+/*  Fonts Google  */
+
+@import url(http://fonts.googleapis.com/css?family=Oswald:700);
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+
+
+body{
+     background: rgb(242, 242, 242); /* Old browsers */
+}
+
+/* logotipo */
+span#nome{
+    font-family: 'Oswald', sans-serif;
+    font-size:48px;
+}
+
+
+span#grau{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+}
+
+img#logotipo{
+    height: 180px;
+    width: 180px;
+}
+
+/* links */
+
+font#link{
+  font-size: 21px;
+}
+
+a.links {
+  transition: all 0.15s ease-in-out;
+  border-radius: 5px;
+  display: inline-block;
+  letter-spacing: -1px;
+  background: none;
+  color: #000;
+  margin: 8px 0px;
+  padding: 3px 0px;
+  text-decoration: none;
+  font-size:18px;
+}
+
+a.links:hover {
+  background: #f00;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* link de contato */
+a.links1{
+  transition: all 0.15s ease-in-out;
+  border-radius: 5px;
+  display: inline-block;
+  letter-spacing: -1px;
+  background: #f00;
+  color:#fff;
+  margin: 8px 0px;
+  padding: 3px 0px;
+  text-decoration: none;
+  font-size:18px;
+}
+
+a.links1:hover{
+  background: none;
+  color: #000;
+  text-decoration: none;
+}
+
+a.links1:visited{
+  text-decoration: none;
+}
+
+a.links1:active {
+  color: #000;
+  text-decoration: none;
+}
+
+a.link:visited{
+    color: #000;
+    text-decoration: none;
+}
+
+a.link:active {
+  color: #000;
+  text-decoration: none;
+}
+
+
+hr {
+  display: block;
+  -webkit-margin-before: 0.5em;
+  -webkit-margin-after: 0.5em;
+  -webkit-margin-start: auto;
+  -webkit-margin-end: auto;
+  border-style: inset;
+  border-width: 1px;
+}
+
+.half-rule{
+  border-top: 1px solid #e5e5e5;
+  border-style: ridge;
+}
+
+#trabalho{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+}
+
+#textos{
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 19px;
+}
+
+#icon{
+height: 20px;
+wight:20px;
+}
+
+#icon1{
+  height: 30px;
+  wight:30px;
+}
+
+.img-thumbnail {
+  border: 6px solid rgb(242, 242, 242);
+}
+
+
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+}
+
+
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+/*  border-top: 1px solid #e5e5e5;*/
+}
+
+.hr{
+  border-top: 1px solid #e5e5e5;
+}
+
+ul {
+  list-style: none;
+}
+
+.text-muted{
+  font-size:24px;
+  margin: 7px 0px;
+  padding: 1px 0px;
+}
